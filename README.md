@@ -1,1 +1,2 @@
 # Sales-Summary
+In this task, I created a small sales database using SQLite and generated 50 random product transactions with dates, quantities, and prices. Using Python, I ran SQL queries to analyze total revenue by product, monthly and daily revenue trends, and even sales patterns by weekday. I visualized these insights using bar and line charts with matplotlib, and finally exported the full dataset to a CSV for reuse. This helped me practice integrating SQL with Python and building simple data summaries from scratch.
